@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings Most Excellent Majesty and to the right honourable the Lords and others of His Majesties most honourable Privy-Councel</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43630</idno><idno type="EEBO-CITATION">489263233</idno>
+  <idno type="VID">208668</idno>
+  <idno type="EEBO-PROQUEST">2240876841</idno>
+  
+            <idno type="OCLC"> 489263233</idno>
+            <idno type="OCLC">ocn 489263233</idno>
+            <idno type="STC">Wing P1462BA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208668)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings Most Excellent Majesty and to the right honourable the Lords and others of His Majesties most honourable Privy-Councel</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: John Johnson Collection.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Percy, James, 1619-1690? --  Early works to 1800.</term>
+               <term type="topical_term">Writ of error --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land titles --  England --  Early works to 1800.</term>
+               <term type="topical_term">Nobility --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petitions">
+            <pb facs="tcp:208668:1"/>
+            <pb facs="tcp:208668:2"/>
+            <head>To the KINGS Most Excellent MAJESTY, And to the Right Honourable the Lords and others of His Majesties Most Honourable Privy-Councel.</head>
+            <head type="sub">
+               <hi>The Several PETITIONS of</hi> JAMES PERCY, <hi>Humbly Sheweth</hi>
+            </head>
+            <div type="petition">
+               <head>To the Kings Most Excellent Majesty in Councel.</head>
+               <head type="sub">
+                  <hi>The humble Petition of</hi> James Percy, <hi>Son of</hi> Henry Percy <hi>of</hi> Horton, <hi>Son of</hi> Henry Percy <hi>of</hi> Pavenham, <hi>who was Son of Sir</hi> Ingelram Percy, 3<hi>d. Son of</hi> Henry Percy <hi>5th. Earl of</hi> Northumberland: <hi>De<g ref="char:EOLhyphen"/>scended of that Line that is clear from the Attainders and Conspiracies in the days of King</hi> Henry VIII. <hi>Queen</hi> Elizabeth, <hi>King</hi> James, <hi>and King</hi> Charles I. <hi>of ever blessed Memory, and by which Descent he is the next surviving Heir-male of the body of</hi> Henry Percy <hi>5th. Earl, and Cousin, and next Heir-male in bloud to</hi> Josceline Percy <hi>late 11th. Earl of</hi> Northumberland, <hi>Deceased; and is proved by the</hi> Percies <hi>Pe<g ref="char:EOLhyphen"/>degree at several times:</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THat Your Loyal Subject, and Petitioner, hath been labouring near 12 years to obtain his Birth-right, but is still obstructed by Oppression, and the Potency of his Cousin the Lady <hi>Elizabeth Percy,</hi> alias <hi>Ogle,</hi> and now <hi>Thynn;</hi> and all her Agents have supplanted, and put by Your Petitioners Tryals, not only in Parliament, but at the Bar also, as by those Prints presented to this Honourable Board the <hi>9th</hi> of <hi>December</hi> last appears, not<g ref="char:EOLhyphen"/>withstanding Your Majesty was so graciously pleased, (in the year 1670.) as to refer Your Petitioner to the Law. But the very Truth is, Your Majesty being mis-inform'd by that <hi>Gazette</hi> which publish'd him in Print to be an <hi>Impostor,</hi> which thing caused Your Majesty to dispose of the Title and Estate; All which encourageth the Counsel for the Opponents, and puts a Fear and Terrour upon Your Petitioners Counsel. And finding his Just and In<g ref="char:EOLunhyphen"/>nocent Cause too high for the lower Courts; therefore▪ and for fear there should be some<g ref="char:EOLhyphen"/>thing done to his prejudice before the Parliament sits again: so that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etitioner is forc'd to make his Address to Your Royal Majesty and this Honourable Board for Justice.</p>
+               <p>That the Daughters of <hi>Zelophehad</hi> did sue for their Fathers Inheritance, and were com<g ref="char:EOLhyphen"/>mended, and had Justice done them, (see <hi>Numb.</hi> 27. to verse 11. and the last chap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of <hi>Numbers</hi> confirms the same;) then great reason that Sons, and true Heir-males, should sue for their Birth right and Inheritance, till Justice be obtained for them also.</p>
+               <p>That the world may see that the hand of God makes way for Justice; for when the Lord <hi>Ogle</hi> would have assumed the Name of <hi>Percy</hi> God cut him off, and Esq; <hi>Thynn</hi> had no sooner entred upon <hi>Percy</hi>'s Lands, but the hand of Providence cut him off also; and if his Cousin, the young Lady, should now marry a stranger, there is no reason that the Inheritance should be transported, that belongs to the Title and Name of <hi>Percy.</hi>
+               </p>
+               <p>
+                  <hi>Therefore Your Petitioner most humbly beseeches Your most Sacred Majesty, and that this Honourable Board will be graciously pleased to intercede with His Majesty to restore the Lands that are annexed to the Crown, Title and Name of</hi> Percy, <hi>even as they were f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<g ref="char:EOLhyphen"/>merly settled by Your Royal Ancestors upon Your Petitioners Noble Predecessors and their Heirs-male for ever, (the Lady</hi> Ogle <hi>having no right therein, as witnessing her purcha<g ref="char:EOLhyphen"/>sing the Crown-Lands, and other Lands, to which she hath no right, as she is an Heir-fe<g ref="char:EOLhyphen"/>male.) That the Lands of the Heirs-male may be separated from the Lands of the Fe<g ref="char:EOLhyphen"/>male; and this will put an end to the Petitioners long Tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ubles and Charges,:</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>And <note place="margin">
+                           <p>Upon this Petition he had advice to go to the Heralds Office, to fix the Pedegree.</p>
+                        </note> Your Petitioner (as in duty bound) shall ever pray,</hi> &amp;c. James Percy.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Thursday</hi> the <hi>9th.</hi> of <hi>March</hi> 1681/2 Your Petitioner attended the Heralds, to have his Pede<g ref="char:EOLhyphen"/>gree signed by them, and they could not deny the Truth of the Pedegree, but said it belong<g ref="char:EOLhyphen"/>ed to the Earl Marshal of <hi>England</hi> to sign; and further said, the Heralds Office did no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> concern themselves with the Collateral Lines of great Families, till they had an Order from the Higher Powers.</p>
+                  <p>
+                     <hi>The Petitioner most humbly earnestly and further prays, That this Right Honourable Board will be graciously pleased to cause the Hera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds to bring the</hi> Percies <hi>Pedegree before Your Lordships, to examine the Truth thereof; so that the Pedegree may be confirmed, without which the King and Kingdom are diss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tisfied, by reason the Lord Chief Justice</hi> Scroggs <hi>bawk'd the Petitioner, as by that Tryal in the Printed Book appears, (the Court of Wards is not) and the Earl Marshal and Heralds have neglected. God preserve all Your Noble Families from the like Troubles.</hi>
+                  </p>
+                  <closer>Is the Cordial Prayer of <signed>Your Petitioner.</signed>
+                     <note place="margin">
+                        <p>By advice, the same was annexed to that Petition now at Counsel-Board.</p>
+                     </note>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="petition">
+               <head>To His Grace HENRY Duke of <hi>Norfolk,</hi> Earl-Marshal of <hi>England.</hi>
+               </head>
+               <head type="sub">
+                  <hi>The humble Petition of</hi> James Percy, <hi>Son of</hi> Henry Percy <hi>of</hi> Horton, <hi>Son of</hi> Henry Percy <hi>of</hi> Pavenham, <hi>who was Son of</hi> Sir Ingelram Percy, <hi>third Son of</hi> Henry Percy, <hi>fifth</hi> Earl <hi>of</hi> Northumberland, <hi>descended of that Line that is clear from those Attainders and Conspiracies in the days of King</hi> Henry <hi>the eighth, Queen</hi> Elizabeth, <hi>King</hi> James, <hi>King</hi> Charles <hi>the first of ever Blessed Memory: By which descent he is the next surviving Heir-male of the Body of</hi> Henry Percy <hi>fifth Earl, and Cozen and next Heir-male in the whole Blood to</hi> Jocelin Percy, <hi>late and eleventh</hi> Earl <hi>of</hi> Northumberland <hi>Deceased,</hi> &amp;c. <hi>And hath so proved his Pedegree at several Tryals.</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THat Your Petitioner hath Petitioned the King in Councel, and the Lords directed Your Petitioner to go to the <hi>Heralds</hi> to Sign the Pedegree.</p>
+               <p>That upon <hi>Thursday</hi> the <hi>9th.</hi> of <hi>March</hi> 1681/2. the expected Chapter day, he attended the <hi>Heralds Office,</hi> at Dr. <hi>Commons</hi> with his Pedegree Witnesses, Depositions, and Re<g ref="char:EOLhyphen"/>cords; and desired them to Sign his Pedegree, and was ready to pay them their Fees, (for they did not deny the Truth of the Pedegree,) but said, it belonged to the Office of the <hi>Earl-Marshal</hi> of <hi>England;</hi> for he was the proper Judge in all Cases of Honours, and Ti<g ref="char:EOLhyphen"/>tles; and to Sign and Confirm the Pedegree of Noble Families.</p>
+               <p>
+                  <hi>Therefore Your Petitioner most Humbly Prays Your Honour, to hear his Witnesses, and his Depositions, see the Records, and Sign the Pedegree according to Equity, Truth, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Justice, for which, I have brought them, and do wait; Moreover the Pedegree was done according to Sir</hi> Edward Walkers <hi>directions, and he would h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve Signed it had he Lived, but he Died the very next Morning the Pedegree was finished.</hi>
+               </p>
+               <closer>
+                  <hi>And <note place="margin">Presented the <hi>27th.</hi> of <hi>March</hi> 82. This Petition was refer'd to the Deputy <hi>Earl-Marshal.</hi>
+                     </note> Your Petitioner shall ever Pray,</hi> &amp;c. <signed>James Percy.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <head>To His Royal Highness <hi>James</hi> Duke of <hi>York</hi> and <hi>Albany.</hi>
+               </head>
+               <head type="sub">
+                  <hi>The Humble Petition of</hi> James Percy.</head>
+               <opener>SHEWETH,</opener>
+               <p>THat his Petition is now before the Councel Board, praying for Justice, and that God will in his infinite Wisdom, Mercy, and Justice, continue the Right of Succession in your Royal Family; for those people that dare oppose the Succession of a Prince, rejoyce at the downfal of a Peer.</p>
+               <p>That Lord that is admitted Tenant in <hi>Capite,</hi> is Sworn to Loyalty, as all his Tenants in those Lands under him, are Sworn to Fealty.</p>
+               <p>That Lady that hath forfeited her Fealty with her Lord, cannot be expected a good <hi>Deborah</hi> for the King.</p>
+               <p>That my Prayer is, hath been, and ever shall be, that God may continue the Suc<g ref="char:EOLhyphen"/>cession of the Crown in the Right Line; and the King may in Justice, continue the law<g ref="char:EOLhyphen"/>ful Succession of his Peers and Loyal Subjects.</p>
+               <p>
+                  <hi>Therefore Your much oppressed Petitioner Humbly and Earnestly Prays and beseeches Your Royal Highn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ss, to Intercede with the Kings Most Excellent Majesty for speedy Justice.</hi>
+               </p>
+               <p>
+                  <hi>And Your Loyal Petitioner as in Duty bound, shall ever Pray for Your Royal High<g ref="char:EOLhyphen"/>nesses Prosperity and Peace here in this World, and Eternal Joy in Heaven here<g ref="char:EOLhyphen"/>after; For I shall ever remain a Loyal Subject.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <note place="margin">This Petition was presented the <hi>11th</hi> of <hi>April</hi> 1682. And on the <hi>12th.</hi> another of the same, with the following Breviate.</note> James Percy</signed>
+               </closer>
+               <postscript>
+                  <p>Fearing the many Visitors yesterday should prevent the reading of that Pe<g ref="char:EOLhyphen"/>tition, therefore the Petitioner presents this to Your Royal Highness; humbly to put into remembrance for this 12 years he hath groaned under oppression, and cannot obtain Justice, by reason the <hi>Court of Wards</hi> is not, and the <hi>Heralds Office</hi> is no Court of Record.</p>
+                  <p>Therefore there is a Petition before the Kings most Excellent Majesty in Council, pray<g ref="char:EOLhyphen"/>ing for a hearing at that Right Honourable Board: or that a positive Order may be made to the Deputy Earl Marshal of <hi>England,</hi> to call a Chapter to prove his Pedigree down to Sir <hi>Ingleram Percy</hi> by Books, and Records in their Office; and the Petitioners Witnesses may be heard, and read the Depositions, that will prove <hi>James Percy</hi> to be Son of <hi>Henry Percy,</hi> who was Son of <hi>Henry Percy</hi> eldest Son of Sir <hi>Ingleram Percy</hi> 3<hi>d.</hi> Son of <hi>Henry Percy 5th.</hi> Earl of <hi>Northumberland,</hi> who was Great Great Grandfather of Your Petitioner; So that the Collateral Line may be fixed to the head Line, and the Pedegree confirmed as in Justice it ought to be</p>
+                  <p>For if a Court be Abollisht that maintained the peoples Right of Succession, and no<g ref="char:EOLhyphen"/>thing in lieu of it, to preserve the peoples inheritance, it is hard for the Subject</p>
+                  <p>It is the Glory of a King to remove such grievances: Delay of Justice is abominable before God: And oppression a just man abhors.</p>
+                  <p>
+                     <hi>And the Pettioner shall ever pray, that God will wellcome Your Royal Highness into</hi> England <hi>with Health and Prosperity, and multiply Your days here in peace and happiness hereafter, is the daily Prayer of Your Petitioner,</hi>
+                  </p>
+                  <closer>
+                     <signed>James Percy</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="petition">
+               <head>To the Kings Most Excellent Majesty in Councel.</head>
+               <head type="sub">
+                  <hi>The Humble Petition of</hi> James Percy,</head>
+               <opener>Humbly Sheweth,</opener>
+               <p>THat the following Petition concerns the Deputy Earl Marshal of <hi>England</hi> in Councel, as he is the proper Judge for Honours, Titles, and Pedegrees.</p>
+               <p>That he finds the Opponents are labouring to set up Mr. <hi>Francis Percy, Stone-cutter</hi> in <hi>Cambridge,</hi> pretending his Title to the Earldom of <hi>Northumberland;</hi> And likewise en<g ref="char:EOLhyphen"/>deavours to Arrest Your Petitioner in 3000 <hi>l.</hi> Action, on purpose to keep Your Petitioner in Prison, whilst they bring their purposes to pass.</p>
+               <p>
+                  <hi>Therefore Your much Oppressed Petitioner most humbly Prays Your most Excellent Majesty, that a fai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earing may be had, and a short day appointed, with an Order to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ummons his Witnesses, and to give notice to the other side, so that a true Decision may be made whose right it is; And if the Petitioner doth not prove his Pedegree, he is then free by Your Majesties Gracious leave and permission to return home</hi>
+               </p>
+               <closer>
+                  <hi>And Your Petitioner as in Duty bound shall ever Pray,</hi> &amp;c. <signed>James Percy.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <head>To the Right Honourable <hi>Robert</hi> Lord <hi>Bruce,</hi> Earl of <hi>Aylsbury,</hi> &amp; <hi>Elgin</hi> Deputy Earl marshal of <hi>England</hi> at Councel Board, &amp; the Lord Presi<g ref="char:EOLhyphen"/>dent, &amp; the rest of those most Honourable Lords &amp; others in Councel.</head>
+               <head type="sub">
+                  <hi>The humble Petition of</hi> James Percy, <hi>Son of</hi> Henry Percy <hi>of</hi> Horton, <hi>Son of</hi> Henry Percy <hi>of</hi> Pavenham, <hi>Eldest Son of Sir</hi> Ingelram Percy, <hi>who was</hi> 3<hi>d. Son of</hi> Henry Percy <hi>5th. Earl of</hi> Northumberland: <hi>Descended of that Line, that is clear from those Attainders and Conspiracies, in the days of King</hi> Henry <hi>the</hi> VIII. <hi>Queen</hi> Elizabeth, <hi>King</hi> James, <hi>and King</hi> Charles <hi>the</hi> I. <hi>of ever Blessed Memory; By which descent he is the next surviving Heir-Male of the Body of</hi> Henry Percy <hi>5th. Earl of</hi> Northumberland, <hi>and Cozen and next Heir-Male in the whole Blood to</hi> Jocelin Percy, <hi>late and 11th. Earl of</hi> Northumberland <hi>Deceased,</hi> &amp;c. <hi>And hath so proved his Pedegree at several Tryals.</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THat the Petitioners Witnesses, their extream occasions have called them home and being oft disapointed they are resolved never to come again, without a positive Order, which Order will command them in six days time.</p>
+               <p>
+                  <hi>Therefore the Petitioner most Humbly Prays, that a short day may be appointed and that a hearing may be had to prove the above Pedegree; And if the Petitioner doth not prove his Pedegree, and satisfie and clear his own Innocency in the former mistakes, then let him be Recorded for an Impostor.</hi>
+               </p>
+               <closer>
+                  <hi>And <note place="margin">
+                        <p>☞ This Petition the Deputy Earl-Marshal refused, and hath not ordered a Chapter while the Petitioners Witnesses were in Town: He therefore fur<g ref="char:EOLhyphen"/>ther prays, that his Cause may be heard before this Honourable Board, or that an Order may be made to the Deputy Earl-Marshal, to call a Chapter to fix and confirm the Pedegree according to proof; Is the Prayer of Your Petitioner. <hi>James Percy</hi>
+                        </p>
+                     </note>he shall ever Pray,</hi> &amp;c. <signed>James Percy.</signed>
+               </closer>
+               <postscript>
+                  <p>For the King hath said, God forbid We should hinder an Heir.</p>
+                  <p>And all just men say, God forbid an Heir Male should be condemned before his cause be fully heard: let his Petition be read I pray and grant an order speedily for a hearing, If he proves not his Pedigree▪ and removes not the former mistakes, then Record him for an Impostor.</p>
+                  <q>
+                     <l>A whipping sets a School-boy free,</l>
+                     <l>Twelve years Law is too hard for me.</l>
+                  </q>
+                  <closer>
+                     <dateline>Presented to the King in Council <date>
+                           <hi>12th. April</hi> 1682.</date>
+                     </dateline>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="petition">
+               <head>To the Kings Most Excellent Majesty.</head>
+               <head type="sub">
+                  <hi>The Humble Petition of</hi> James Percy,</head>
+               <opener>SHEWETH,</opener>
+               <p>THat Your Petitioner hath Petitioned Your Sacred Majesty in Council several times, But as yet never could obtain an order upon any one of them.</p>
+               <p>That the <hi>12th.</hi> of <hi>April</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>82. Your Petitioner presented a double Petition to Your most Excellent Majesty in Council, both of them are very short.</p>
+               <p>
+                  <hi>Therefore Your Petitioner most humbly and earnestly beseecheth Your most Excellent Majesty, to cause that Petition presented</hi> 12th. <hi>instant, to be read the next Council day, and that an order may be had according▪ to the Prayers therein. Speedy Justice, will put a speedy stop to</hi> 12 <hi>years troubles.</hi>
+               </p>
+               <closer>
+                  <dateline>Presented into his Sacred Majesties Hand <date>
+                        <hi>April</hi> 13. 1682.</date>
+                  </dateline>
+                  <signed>
+                     <hi>And the Petitioner as in Duty bound shall ever pray.</hi> James Percy.</signed>
+               </closer>
+               <postscript>
+                  <p>May it please Your most Excellent Majesty, The Lord President, Deputy Earl Marshal, and the rest of tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Right Honourable Lords &amp; others of the Privy Council at the Council Board. ☞ This I have done to set forth what is before that Honourable Board, that you may see as well as hear: By doing Justice for Your Petitioner, You will preserve Your own Families another day: make but the <hi>Heralds Office</hi> a Court of Record in the nature of the <hi>Court of Wards,</hi> this will preserve Your Families and enheritances another day: when Justice and Truth is incouraged▪ then is God Glorifi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d; His Majesty's Crown Dig<g ref="char:EOLhyphen"/>nified, all Loyal Subjects satisfied: and all shall rejoyce in peace together.</p>
+                  <closer>
+                     <signed>And the Petitioner as in Duty bound shall ever Pray, James Percy</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
